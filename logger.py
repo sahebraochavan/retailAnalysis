@@ -1,0 +1,1 @@
+#This file takescare of loggin and setting of logging
